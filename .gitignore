@@ -5,7 +5,7 @@
 *.exe
 
 /.vs
-/VulkanSandbox
+/VulkanSandbox/External Libraries
 CMakeFiles/
 CMakeCache.txt
 CMakeScripts/
