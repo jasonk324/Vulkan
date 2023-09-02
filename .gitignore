@@ -1,0 +1,17 @@
+*.o
+*.out
+*.log
+*.dll
+*.exe
+
+/.vs
+/VulkanSandbox
+/x64
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CMakeSettings.json
+CMakeUserPresets.json
+build/
+.vscode/
+.idea/
