@@ -6,7 +6,6 @@
 
 /.vs
 /VulkanSandbox
-/x64
 CMakeFiles/
 CMakeCache.txt
 CMakeScripts/
